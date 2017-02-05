@@ -1,0 +1,283 @@
+/* CSS Reset (Eric Meyer) */
+
+#container {
+    width: 633px;
+	float:left;
+    margin:0;
+    padding:0;
+    overflow: hidden;
+}
+#container #first_step, #second_step, #third_step, #fourth_step, #fifth_step { 		    display: none; 
+}
+#container #first_step {
+	 display: block; 
+}
+#container .form {
+	 margin: 0 0 0 0px; 
+}
+    
+#container h1, #container h2 {
+	font-family:Arial;
+	text-align: center;
+	font-size: 24px;
+	text-shadow: 1px 1px 2px #222;
+}
+#container h1 span { 
+	color: #a90329; 
+}
+#container h2 {
+	color: #393838;
+	font-size: 18px;
+	font-weight:normal;
+	text-align: left;
+	margin:15px 0 15px 0;
+	text-shadow:none;
+}
+.text {
+	color: #bb3b02;
+	font-size: 12px;
+	font-weight:normal;
+	margin-top:9px;
+	text-shadow:none;
+	line-height:20px;
+}
+#container h3 {
+	width:500px;
+	float:left;
+	color: #393838;
+	font-size: 18px;
+	font-weight:normal;
+	text-align: left;
+	margin:15px 0 15px 0;
+	text-shadow:none;
+}
+#container h3.gap1 {
+	margin-top:35px;
+}
+
+.text1 {
+	color: #bb3b02;
+	font-size: 12px;
+	font-weight:normal;
+	margin-top:9px;
+	text-shadow:none;
+	line-height:20px;
+}
+#gap {
+	margin-top:25px;
+}
+    #container table {
+        margin: 0;
+        font-size: 14px;
+        font-weight: bold;
+    }
+        #container table td {
+            padding: 5px 10px;
+			color:#000;
+        }
+            #container table td:nth-child(2) {
+                color: #f84d02;
+            }   
+        
+#container input, #container select {
+	color: #888;
+	border: 1px solid #ccc;
+	font-family:Arial;
+	font-size: 14px;
+	width: 350px;
+	height: 32px;
+	padding: 0 0 0 8px;
+	margin:0 0 7px 0;
+	float: left;
+	background:#f0efef;
+}
+#container select {
+	color: #888;
+	border: 1px solid #ccc;
+	font-family:Arial;
+	font-size: 14px;
+	width: 370px;
+	height: 32px;
+	padding: 0 0 0 2px;
+	margin:0 0 7px 0;
+	float: left;
+	background:#f0efef;
+}
+#container input.account {
+	color: #888;
+	border: 1px solid #ccc;
+	font-family:Arial;
+	font-size: 14px;
+	width: 290px;
+	height: 32px;
+	padding: 0 0 0 8px;
+	margin:0 0 7px 0;
+	float: left;
+	background:#f0efef;
+}
+#container input.account1 {
+	color: #888;
+	border: 1px solid #ccc;
+	font-family:Arial;
+	font-size: 14px;
+	width: 30px;
+	height: 32px;
+	padding: 0 0 0 8px;
+	margin:-5px 0 7px 0;
+	float: left;
+
+}
+ #container textarea{
+	color: #888;
+	border: 1px solid #ccc;
+	font-family:Arial;
+	font-size: 14px;
+	width: 350px;
+	height: 65px;
+	padding: 5px 0 0 8px;
+	margin:0 0 7px 0;
+	float: left;
+	background:#f0efef;
+}
+        #container input.submit {
+            cursor: pointer;
+            width: 100px;
+            height: 30px;
+			float:left;
+			margin:20px 0 0 120px;
+			padding:0;
+			background:#f74406;
+			color:#fff;
+			text-align:center;
+        }
+            #container input.submit:focus { border: none; }
+        
+        #container input.send{ width:110px; background:#000; margin-left:10px; }
+		 #container input.send:focus{ width:110px; background:#000; margin-left:10px; color:#fff; }
+		
+		#container input.submit1{ width:110px; float:left; background:#f74406; color:#fff; margin:4px 0 0 0; cursor:pointer; }
+            
+        #container input.error { border: 1px solid red; }
+        #container input.valid { border: 1px solid #1FFF00; }
+        
+        #container input:focus, #container select:focus, #container textarea:focus {
+            border: 1px solid #888;
+            color: #888;
+        }
+
+    #container select { padding: 5px 4px 5px 8px; }
+        #container option { padding: 0 8px; }
+
+    #container label {
+        color: #666;
+        font-size: 12px;
+        font-weight: bold;
+        line-height: 14px;
+        float: right;
+        margin: 23px -25px;
+        width: 270px;
+    }
+    
+
+#progress_bar {
+    background: url('../images/progress_bar.png') no-repeat;
+    width: 339px;
+    height: 24px;
+    margin: 0 auto;
+    position: relative;
+}
+
+#progress {
+    background: url('../images/progress.png') repeat-x;
+    width: 0px;
+    height: 23px;
+    
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+}
+#progress_text {
+    position: relative;
+    line-height: 21px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    text-shadow: 1px 1px 2px #222;
+    width: 339px;
+    height: 24px;
+    top: -23px;
+    left: 0;
+}
+.check-formbox {
+	width:633px;
+	float:left;
+}
+.check-textbox {
+	width:300px;
+	float:left;
+}
+.check-namebox {
+	width:120px;
+	float:left;
+	color:#434242;
+	margin:7px 0 0 0;
+	font-size:14px;
+}
+.account {
+	width:300px;
+	float:left;
+	margin:0 15px 0 0;
+}
+.account h3 {
+	width:300px;
+	float:left;
+	font-size:16px;
+	text-transform:none;
+	color:#434242;
+	margin:0 0 8px 0;
+}
+
+.account p {
+	width:300px;
+	float:left;
+	font-size:13px;
+	color:#434242;
+	margin:0 0 0 0;
+	line-height:19px;
+}
+.login {
+	margin-bottom:15px;
+}
+.btn-account {
+    padding:6px 12px;
+	float:left;
+	margin:12px 0 0 0;
+	color:#fff;
+	font-size:14px;
+	background:#666;
+	border:none;
+	cursor:pointer;
+}
+.btn-account:hover {
+	text-decoration:none;
+}
+.acount-name1 {
+	float:left;
+	width:200px;
+	height:30px;
+	background:#e9e7e7;
+	color:#434242;
+	margin:10px 0 0 0;
+	padding:0 0 0 4px;
+	border:1px solid #dbd9d9;
+}
+.delbox {
+	width:633px;
+	float:left;
+	color:#434242;
+	font-size:14px;
+}
+.delbox input{
+	padding:0;
+	margin:0;
+}

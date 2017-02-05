@@ -1,0 +1,31 @@
+<?php
+/// +++= PAGINATION VARIABLES DECLARED =+++ ///
+$tableName		=	"customer_details";
+$query 			= 	"SELECT COUNT(*) as num FROM $tableName ";
+$query1a 		= 	"SELECT * FROM $tableName ";
+$targetpage 	= 	"view_cx_info.php";
+$limit 			= 	20; 
+require("app/framework/pagination.php");
+///////////////////////////////////////////////
+
+echo "<ul>";
+while($row = mysql_fetch_array($result))
+{
+$id					=	$row["cx_name"];
+$schedule_link		=	"<a href='cx_details.php?id=$id'><img src='images/view.png' height='15px' width='20px'></a>";
+echo '<thead>';
+echo "<tr>";
+echo '<td class="left" >'.$row['cx_name'].'</td>';
+echo '<td>'.$row['cx_phone'].'</td>';
+echo '<td>'.$row['cx_email'].'</td>';
+echo '<td>'.date("d - M - Y", $row["cx_reg_date"]).'</td>';
+echo '<td>'.$row['cx_ip_address'].'</td>';
+echo '<td>'.$schedule_link.'</td>';
+echo "</tr>";
+echo '</thead>';
+}
+
+echo "</table> <br />";
+echo "<br /><br /><center>".$paginate."</center>";
+?>
+</table>

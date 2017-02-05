@@ -1,0 +1,277 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {
+	margin:0;
+	padding:0;
+}
+a {
+	text-decoration:none;
+}
+html, h1, h2, h3, h4, h5, h6, div, section, article, form, ul, li, p, img {
+	margin:0;
+	padding:0;
+	border:0;
+}
+.book-wrap {
+	width:820px;
+	margin:0px auto;
+	padding:18px 0 21px 12px;
+	overflow:hidden;
+}
+.book-box {
+	width:245px;
+	float:left;
+	border:#d3cdcd 1px solid;
+	padding:7px;
+}
+.book-description {
+	width:400px;
+	float:left;
+	margin:0 0 0 18px;
+}
+.book-head {
+	width:490px;
+	float:left;
+	padding:0 0 0 0;
+	/*border-bottom:#d3cdcd 1px solid;*/
+}
+.book-head h1{
+	width:490px;
+	float:left;
+	font-size:20px;
+	font-family:Arial;
+	font-weight:normal;
+	color:#242323;
+	text-transform:uppercase;
+}
+.book-head p{
+	width:340px;
+	float:left;
+	font-size:14px;
+	font-family:Arial;
+	font-weight:normal;
+	color:#ac380b;
+	margin:4px 0 0 0;
+}
+.book-head1{
+	width:340px;
+	float:left;
+	padding:0 0 0 0;
+	border-bottom:#d3cdcd 1px solid;
+}
+.book-head1 h1{
+	width:340px;
+	float:left;
+	font-size:20px;
+	font-family:Arial;
+	font-weight:normal;
+	color:#242323;
+	text-transform:uppercase;
+}
+.book-head1 p{
+	width:340px;
+	float:left;
+	font-size:14px;
+	font-family:Arial;
+	font-weight:normal;
+	color:#ac380b;
+	margin:2px 0 2px 0;
+}
+.book-panel {
+	width:490px;
+	float:left;
+	padding:0 0 9px 0;
+	/*border-bottom:#d3cdcd 1px solid;*/
+}
+.bookpan-top {
+	width:490px;
+	float:left;
+	padding:9px 0 0 0;
+}
+.bookpan-top p{
+	width:490px;
+	float:left;
+	padding:0 0 9px 0;
+	font-size:12px;
+	color:#757271;
+}
+.book-rating {
+	width:490px;
+	float:left;
+	padding:9px 0 0 0;
+}
+.book-rating1 {
+	width:340px;
+	float:left;
+	padding:9px 0 0 0;
+}
+.book-rating h2{
+	width:340px;
+	float:left;
+	font-size:18px;
+	font-family:Arial;
+	font-weight:normal;
+	color:#323130;
+	margin:0 0 0 0;
+}
+.book-rating p{
+	width:340px;
+	float:left;
+	font-size:12px;
+	font-family:Arial;
+	font-weight:normal;
+	color:#757271;
+	margin:0 0 11px 0;
+	padding: 5px 0 5px 0;
+	line-height:19px;
+}
+.book-rating p.name{
+	border-bottom:#918f8f 2px dotted;
+	border-top:#918f8f 2px dotted;
+	line-height:19px;
+}
+.book-rating p img{
+	padding:2px 11px 0 4px;
+	
+}
+.book-rating p a{
+	color:#757271;
+}
+.book-rating p a:hover{
+	color:#ac380b;
+	text-decoration:underline;
+}
+.book-rating p.book{
+	width:485px;
+	float:left;
+	font-size:14px;
+	font-family:Arial;
+	font-weight:normal;
+	color:#757271;
+	margin:0 0 14px 0;
+	line-height:22px;
+}
+.buttonarea {
+	width:480px;
+	float:left;
+}
+/*.buttonarea p{
+	/*width:355px;
+	float:left;
+	font-size:14px;
+	font-family:Arial;
+	font-weight:normal;
+	color:#515050;
+	margin:6px 0 14px 14px;
+	line-height:22px;
+	text-transform:uppercase;
+}
+.buttonarea p img {
+	margin:0 8px 10px 0;
+}
+.buttonarea p a{
+	color:#515050;
+}
+.buttonarea p a:hover{
+	color:#ac380b;
+	text-decoration:none;
+}*/
+.book-rating1 h2{
+	width:490px;
+	float:left;
+	font-size:18px;
+	font-family:Arial;
+	font-weight:normal;
+	color:#323130;
+	margin:0 0 0 0;
+}
+.book-rating1 p{
+	width:340px;
+	float:left;
+	font-size:12px;
+	font-family:Arial;
+	font-weight:normal;
+	color:#757271;
+	margin:0 0 11px 0;
+	padding: 5px 0 5px 0;
+	line-height:19px;
+}
+.book-rating1 p.name{
+	border-bottom:#918f8f 2px dotted;
+	border-top:#918f8f 2px dotted;
+	line-height:19px;
+}
+.book-rating1 p img{
+	padding:2px 11px 0 4px;
+	
+}
+.book-rating1 p a{
+	color:#757271;
+}
+.book-rating1 p a:hover{
+	color:#ac380b;
+	text-decoration:underline;
+}
+.book-rating1 p.book{
+	width:485px;
+	float:left;
+	font-size:14px;
+	font-family:Arial;
+	font-weight:normal;
+	color:#757271;
+	margin:0 0 14px 0;
+	line-height:22px;
+}
+.buttonarea {
+	width:480px;
+	float:left;
+}
+/
+.button-panel {
+	width:480px;
+	float:left;
+}
+.buttonarea1 {
+	width:165px;
+	float:left;
+}
+.buttonarea1 p{
+	width:160px;
+	float:left;
+	font-size:14px;
+	font-family:Arial;
+	font-weight:normal;
+	color:#515050;
+	margin:6px 0 14px 0;
+	line-height:22px;
+	text-transform:uppercase;
+}
+.buttonarea1 p a{
+	color:#515050;
+}
+.buttonarea1 p a:hover{
+	color:#ac380b;
+	text-decoration:none;
+}
+.cart-button {
+	width:100px;
+	height:26px;
+	float:left;
+	/*background:#f64500;*/
+	background:url(../images/cart-button.png);
+	color:#fff;
+	text-align:center;
+	font-family:Arial;
+	font-size:14px;
+	padding:10px 0 0 34px;
+	margin:0 14px 0 0;
+}
+.cart-button a {
+	color:#fff;
+	text-decoration:none;
+}
+.pic-cl {
+	float:left;
+	margin:1px 7px 0 0;
+}

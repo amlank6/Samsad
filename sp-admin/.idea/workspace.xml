@@ -1,0 +1,850 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b76eaa58-b826-4bb9-bae6-99b21293fae8" name="Default" comment="" />
+    <ignored path="sp-admin.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="MySQL - samsad_n@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="MySQL - samsad_n@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="special_customers_sub_order" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="sp-admin" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="createOrder.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/createOrder.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.461538">
+              <caret line="58" column="13" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpecialCustomerMainOrder.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/class/SpecialCustomerMainOrder.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-29.115385">
+              <caret line="245" column="40" selection-start-line="245" selection-start-column="40" selection-end-line="245" selection-end-column="40" />
+              <folding>
+                <element signature="e#7#94#0#PHP" expanded="false" />
+                <element signature="n#__construct#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+                <element signature="e#1272#1304#0#PHP" expanded="false" />
+                <element signature="n#getId#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+                <element signature="e#1376#1411#0#PHP" expanded="false" />
+                <element signature="n#setId#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+                <element signature="e#1485#1517#0#PHP" expanded="false" />
+                <element signature="n#getSpecialCustomerMasterId#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+                <element signature="e#1631#1687#0#PHP" expanded="false" />
+                <element signature="n#setSpecialCustomerMasterId#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+                <element signature="e#1845#1877#0#PHP" expanded="false" />
+                <element signature="n#getDate#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+                <element signature="e#1953#1990#0#PHP" expanded="false" />
+                <element signature="n#setDate#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+                <element signature="e#2072#2104#0#PHP" expanded="false" />
+                <element signature="n#getSchool#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+                <element signature="e#2184#2223#0#PHP" expanded="false" />
+                <element signature="n#setSchool#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+                <element signature="e#2313#2345#0#PHP" expanded="false" />
+                <element signature="n#getEstimatedDateOfDelivery#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+                <element signature="e#2459#2515#0#PHP" expanded="false" />
+                <element signature="n#setEstimatedDateOfDelivery#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+                <element signature="e#2673#2705#0#PHP" expanded="false" />
+                <element signature="n#getTotalAmount#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+                <element signature="e#2795#2839#0#PHP" expanded="false" />
+                <element signature="n#setTotalAmount#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+                <element signature="e#2949#2981#0#PHP" expanded="false" />
+                <element signature="n#getDeliveryCharge#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+                <element signature="e#3077#3124#0#PHP" expanded="false" />
+                <element signature="n#setDeliveryCharge#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+                <element signature="e#3246#3278#0#PHP" expanded="false" />
+                <element signature="n#getDiscountAmount#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+                <element signature="e#3374#3421#0#PHP" expanded="false" />
+                <element signature="n#setDiscountAmount#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+                <element signature="e#3543#3575#0#PHP" expanded="false" />
+                <element signature="n#getAmountToBePaid#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+                <element signature="e#3671#3718#0#PHP" expanded="false" />
+                <element signature="n#setAmountToBePaid#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+                <element signature="e#3840#3872#0#PHP" expanded="false" />
+                <element signature="n#getIsApproved#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+                <element signature="e#3960#4003#0#PHP" expanded="false" />
+                <element signature="n#setIsApproved#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+                <element signature="n#calculateDiscountAmount#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+                <element signature="n#calculateTotalAmount#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+                <element signature="e#7355#7867#0#PHP" expanded="false" />
+                <element signature="n#calculateDeliveryCharge#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+                <marker date="1484913822266" expanded="true" signature="4184:4514" placeholder="INSERT INTO `special_customers_main_order`..." />
+                <marker date="1484913822266" expanded="false" signature="5062:5163" placeholder="SELECT * FRO..special_customers_main_order..." />
+                <marker date="1484913822266" expanded="false" signature="6846:6872" placeholder="SELECT * FRO..credit..." />
+                <marker date="1484913822266" expanded="false" signature="6846:6873" placeholder="SELECT * FRO..credit..." />
+                <marker date="1484913822266" expanded="false" signature="6846:6926" placeholder="SELECT * FRO..credit..." />
+                <marker date="1484913822266" expanded="false" signature="6846:6928" placeholder="SELECT * FRO..credit..." />
+                <marker date="1484913822266" expanded="false" signature="7539:7593" placeholder="SELECT * FRO..product..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpecialCustomerSubOrder.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/class/SpecialCustomerSubOrder.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7039187">
+              <caret line="116" column="199" selection-start-line="116" selection-start-column="199" selection-end-line="116" selection-end-column="199" />
+              <folding>
+                <element signature="n#findBySpecialCustomerMainOrderId#0;n#SpecialCustomerSubOrder#0;n#!!top" expanded="false" />
+                <marker date="1484914345829" expanded="true" signature="2253:2454" placeholder="INSERT INTO `special_customers_sub_order`..." />
+                <marker date="1484914345829" expanded="true" signature="2835:2942" placeholder="SELECT * FRO..special_customers_sub_order..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/class/SpecialCustomer.php" />
+        <option value="$PROJECT_DIR$/app/class/SpecialCustomerType.php" />
+        <option value="$PROJECT_DIR$/app/class/BookSeller.php" />
+        <option value="$PROJECT_DIR$/app/class/Credit.php" />
+        <option value="$PROJECT_DIR$/app/class/School.php" />
+        <option value="$PROJECT_DIR$/app/class/SpecialCustomerMaster.php" />
+        <option value="$PROJECT_DIR$/loginCheck.php" />
+        <option value="$PROJECT_DIR$/config.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/sideBar.php" />
+        <option value="$PROJECT_DIR$/profile.php" />
+        <option value="$PROJECT_DIR$/assets/css/core.css" />
+        <option value="$PROJECT_DIR$/database/databaseConnectionPDO.php" />
+        <option value="$PROJECT_DIR$/app/class/Canvasser.php" />
+        <option value="$PROJECT_DIR$/app/class/Product.php" />
+        <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/bookList.php" />
+        <option value="$PROJECT_DIR$/dashboard.php" />
+        <option value="$PROJECT_DIR$/orders.php" />
+        <option value="$PROJECT_DIR$/sub_order.php" />
+        <option value="$PROJECT_DIR$/createOrder.php" />
+        <option value="$PROJECT_DIR$/app/class/SpecialCustomerMainOrder.php" />
+        <option value="$PROJECT_DIR$/app/class/SpecialCustomerSubOrder.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1444" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sp-admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sp-admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sp-admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sp-admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sp-admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="class" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../udaandmc.com/admin" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp2\htdocs\samsad\sp-admin\assets\dataTable\js" />
+      <recent name="C:\xampp2\htdocs\samsad\sp-admin\assets\dataTable\css" />
+      <recent name="C:\xampp2\htdocs\samsad\sp-admin\assets\font-awesome\4.7.0" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp2\htdocs\samsad\sp-admin\assets\dataTable" />
+      <recent name="C:\xampp2\htdocs\samsad\sp-admin" />
+      <recent name="C:\xampp2\htdocs\samsad\sp-admin\assets" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b76eaa58-b826-4bb9-bae6-99b21293fae8" name="Default" comment="" />
+      <created>1482904955344</created>
+      <option name="number" value="Default" />
+      <updated>1482904955344</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1444" height="876" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18569364" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20014451" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="58" selection-start-line="35" selection-start-column="58" selection-end-line="35" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/class/SpecialCustomerMaster.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/class/BookSeller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="232" column="52" selection-start-line="232" selection-start-column="52" selection-end-line="232" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/class/Canvasser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="219" column="0" selection-start-line="219" selection-start-column="0" selection-end-line="219" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/class/SpecialCustomerMaster.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="120" column="44" selection-start-line="120" selection-start-column="44" selection-end-line="120" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/class/BookSeller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="226" column="0" selection-start-line="226" selection-start-column="0" selection-end-line="226" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/class/Canvasser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="219" column="0" selection-start-line="219" selection-start-column="0" selection-end-line="219" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/class/SpecialCustomerMaster.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="89" column="23" selection-start-line="89" selection-start-column="23" selection-end-line="89" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="42" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/class/SpecialCustomerMainOrder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="228" column="20" selection-start-line="228" selection-start-column="20" selection-end-line="228" selection-end-column="20" />
+          <folding>
+            <element signature="e#7#94#0#PHP" expanded="false" />
+            <element signature="n#__construct#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="e#1272#1304#0#PHP" expanded="false" />
+            <element signature="n#getId#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="e#1376#1411#0#PHP" expanded="false" />
+            <element signature="n#setId#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="e#1485#1517#0#PHP" expanded="false" />
+            <element signature="n#getSpecialCustomerMasterId#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="e#1631#1687#0#PHP" expanded="false" />
+            <element signature="n#setSpecialCustomerMasterId#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="e#1845#1877#0#PHP" expanded="false" />
+            <element signature="n#getDate#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="e#1953#1990#0#PHP" expanded="false" />
+            <element signature="n#setDate#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="e#2072#2104#0#PHP" expanded="false" />
+            <element signature="n#getSchool#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="e#2184#2223#0#PHP" expanded="false" />
+            <element signature="n#setSchool#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="e#2313#2345#0#PHP" expanded="false" />
+            <element signature="n#getEstimatedDateOfDelivery#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="e#2459#2515#0#PHP" expanded="false" />
+            <element signature="n#setEstimatedDateOfDelivery#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="e#2673#2705#0#PHP" expanded="false" />
+            <element signature="n#getTotalAmount#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="e#2795#2839#0#PHP" expanded="false" />
+            <element signature="n#setTotalAmount#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="e#2949#2981#0#PHP" expanded="false" />
+            <element signature="n#getDeliveryCharge#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="e#3077#3124#0#PHP" expanded="false" />
+            <element signature="n#setDeliveryCharge#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="e#3246#3278#0#PHP" expanded="false" />
+            <element signature="n#getDiscountAmount#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="e#3374#3421#0#PHP" expanded="false" />
+            <element signature="n#setDiscountAmount#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="e#3543#3575#0#PHP" expanded="false" />
+            <element signature="n#getAmountToBePaid#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="e#3671#3718#0#PHP" expanded="false" />
+            <element signature="n#setAmountToBePaid#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="e#3840#3872#0#PHP" expanded="false" />
+            <element signature="n#getIsApproved#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="e#3960#4003#0#PHP" expanded="false" />
+            <element signature="n#setIsApproved#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="n#calculateDiscountAmount#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="n#calculateTotalAmount#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="e#7355#7867#0#PHP" expanded="false" />
+            <element signature="n#calculateDeliveryCharge#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <marker date="1484913822266" expanded="true" signature="4184:4514" placeholder="INSERT INTO `special_customers_main_order`..." />
+            <marker date="1484913822266" expanded="false" signature="5062:5163" placeholder="SELECT * FRO..special_customers_main_order..." />
+            <marker date="1484913822266" expanded="false" signature="6846:6872" placeholder="SELECT * FRO..credit..." />
+            <marker date="1484913822266" expanded="false" signature="6846:6873" placeholder="SELECT * FRO..credit..." />
+            <marker date="1484913822266" expanded="false" signature="6846:6926" placeholder="SELECT * FRO..credit..." />
+            <marker date="1484913822266" expanded="false" signature="6846:6928" placeholder="SELECT * FRO..credit..." />
+            <marker date="1484913822266" expanded="false" signature="7539:7593" placeholder="SELECT * FRO..product..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/class/Canvasser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="197" column="5" selection-start-line="197" selection-start-column="5" selection-end-line="197" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="42" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/ad5be132-5bda-49e5-8c2e-4f734a4abc35/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/font-awesome/4.7.0/less/list.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/font-awesome/4.7.0/less/core.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/font-awesome/4.7.0/fonts/fontawesome-webfont.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/font-awesome/4.7.0/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/font-awesome/4.7.0/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/class/SpecialCustomerType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.5384617">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/_superglobals.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22206096">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/class/Credit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.153846">
+          <caret line="114" column="0" selection-start-line="114" selection-start-column="0" selection-end-line="130" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loginCheck.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.692307">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/class/BookSeller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.115385">
+          <caret line="229" column="8" selection-start-line="229" selection-start-column="8" selection-end-line="233" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.038462">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.8461537">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sideBar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2467344">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/core.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4188406">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.02463768">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/databaseConnectionPDO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.346153">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/class/School.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-21.923077">
+          <caret line="263" column="0" selection-start-line="263" selection-start-column="0" selection-end-line="263" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/class/Canvasser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.76632804">
+          <caret line="225" column="29" selection-start-line="225" selection-start-column="29" selection-end-line="225" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="58" selection-start-line="35" selection-start-column="58" selection-end-line="35" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sub_order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.0384616">
+          <caret line="17" column="109" selection-start-line="17" selection-start-column="109" selection-end-line="17" selection-end-column="109" />
+          <folding>
+            <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#th#1;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#th#2;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/class/Product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6405797">
+          <caret line="341" column="20" selection-start-line="341" selection-start-column="20" selection-end-line="341" selection-end-column="20" />
+          <folding>
+            <marker date="1483603644248" expanded="true" signature="6248:6269" placeholder="SELECT * FRO..product..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookList.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="34.653847">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/orders.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-69.30769">
+          <caret line="112" column="103" selection-start-line="112" selection-start-column="103" selection-end-line="112" selection-end-column="103" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.04934688">
+          <caret line="79" column="43" selection-start-line="79" selection-start-column="43" selection-end-line="79" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/class/SpecialCustomerMaster.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.18432511">
+          <caret line="103" column="12" selection-start-line="103" selection-start-column="12" selection-end-line="103" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/createOrder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.461538">
+          <caret line="58" column="13" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/class/SpecialCustomerMainOrder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-29.115385">
+          <caret line="245" column="40" selection-start-line="245" selection-start-column="40" selection-end-line="245" selection-end-column="40" />
+          <folding>
+            <element signature="e#7#94#0#PHP" expanded="false" />
+            <element signature="n#__construct#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="e#1272#1304#0#PHP" expanded="false" />
+            <element signature="n#getId#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="e#1376#1411#0#PHP" expanded="false" />
+            <element signature="n#setId#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="e#1485#1517#0#PHP" expanded="false" />
+            <element signature="n#getSpecialCustomerMasterId#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="e#1631#1687#0#PHP" expanded="false" />
+            <element signature="n#setSpecialCustomerMasterId#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="e#1845#1877#0#PHP" expanded="false" />
+            <element signature="n#getDate#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="e#1953#1990#0#PHP" expanded="false" />
+            <element signature="n#setDate#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="e#2072#2104#0#PHP" expanded="false" />
+            <element signature="n#getSchool#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="e#2184#2223#0#PHP" expanded="false" />
+            <element signature="n#setSchool#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="e#2313#2345#0#PHP" expanded="false" />
+            <element signature="n#getEstimatedDateOfDelivery#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="e#2459#2515#0#PHP" expanded="false" />
+            <element signature="n#setEstimatedDateOfDelivery#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="e#2673#2705#0#PHP" expanded="false" />
+            <element signature="n#getTotalAmount#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="e#2795#2839#0#PHP" expanded="false" />
+            <element signature="n#setTotalAmount#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="e#2949#2981#0#PHP" expanded="false" />
+            <element signature="n#getDeliveryCharge#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="e#3077#3124#0#PHP" expanded="false" />
+            <element signature="n#setDeliveryCharge#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="e#3246#3278#0#PHP" expanded="false" />
+            <element signature="n#getDiscountAmount#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="e#3374#3421#0#PHP" expanded="false" />
+            <element signature="n#setDiscountAmount#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="e#3543#3575#0#PHP" expanded="false" />
+            <element signature="n#getAmountToBePaid#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="e#3671#3718#0#PHP" expanded="false" />
+            <element signature="n#setAmountToBePaid#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="e#3840#3872#0#PHP" expanded="false" />
+            <element signature="n#getIsApproved#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="e#3960#4003#0#PHP" expanded="false" />
+            <element signature="n#setIsApproved#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="n#calculateDiscountAmount#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="n#calculateTotalAmount#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <element signature="e#7355#7867#0#PHP" expanded="false" />
+            <element signature="n#calculateDeliveryCharge#0;n#SpecialCustomerMainOrder#0;n#!!top" expanded="false" />
+            <marker date="1484913822266" expanded="true" signature="4184:4514" placeholder="INSERT INTO `special_customers_main_order`..." />
+            <marker date="1484913822266" expanded="false" signature="5062:5163" placeholder="SELECT * FRO..special_customers_main_order..." />
+            <marker date="1484913822266" expanded="false" signature="6846:6872" placeholder="SELECT * FRO..credit..." />
+            <marker date="1484913822266" expanded="false" signature="6846:6873" placeholder="SELECT * FRO..credit..." />
+            <marker date="1484913822266" expanded="false" signature="6846:6926" placeholder="SELECT * FRO..credit..." />
+            <marker date="1484913822266" expanded="false" signature="6846:6928" placeholder="SELECT * FRO..credit..." />
+            <marker date="1484913822266" expanded="false" signature="7539:7593" placeholder="SELECT * FRO..product..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/class/SpecialCustomerSubOrder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7039187">
+          <caret line="116" column="199" selection-start-line="116" selection-start-column="199" selection-end-line="116" selection-end-column="199" />
+          <folding>
+            <element signature="n#findBySpecialCustomerMainOrderId#0;n#SpecialCustomerSubOrder#0;n#!!top" expanded="false" />
+            <marker date="1484914345829" expanded="true" signature="2253:2454" placeholder="INSERT INTO `special_customers_sub_order`..." />
+            <marker date="1484914345829" expanded="true" signature="2835:2942" placeholder="SELECT * FRO..special_customers_sub_order..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
