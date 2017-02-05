@@ -294,7 +294,6 @@ require("scripts.php");
 <div class="navigationarea">
 <nav>
 <ul>
-<li><a href="index.php" class="active">Homes</a></li>
 <div class="nav-sep1"></div>
 <li><a href="about-us.php">About Us</a></li>
 <div class="nav-sep1"></div>

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29a79e7d-b3f7-4e5b-99e9-3cbe31a14c24" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored path="samsad.iws" />
@@ -77,20 +76,20 @@
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.2073991">
-              <caret line="296" column="44" selection-start-line="296" selection-start-column="44" selection-end-line="296" selection-end-column="44" />
+              <caret line="296" column="43" selection-start-line="296" selection-start-column="43" selection-end-line="296" selection-end-column="43" />
               <folding>
-                <marker date="1486311020170" expanded="true" signature="4928:5019" placeholder="..." />
-                <marker date="1486311020170" expanded="true" signature="4947:5011" placeholder="{...}" />
-                <marker date="1486311020170" expanded="true" signature="9304:9354" placeholder="SELECT * FRO..product..." />
-                <marker date="1486311020170" expanded="true" signature="10653:10679" placeholder="SELECT * FRO..sub_category..." />
-                <marker date="1486311020170" expanded="true" signature="12190:12257" placeholder="SELECT * FRO..product..." />
-                <marker date="1486311020170" expanded="true" signature="16289:16339" placeholder="SELECT * FRO..product..." />
-                <marker date="1486311020170" expanded="true" signature="18296:18346" placeholder="SELECT * FRO..product..." />
-                <marker date="1486311020170" expanded="false" signature="24381:24433" placeholder="..." />
-                <marker date="1486311020170" expanded="true" signature="24434:24794" placeholder="..." />
-                <marker date="1486311020170" expanded="true" signature="24545:24787" placeholder="..." />
-                <marker date="1486311020170" expanded="true" signature="26336:26439" placeholder="..." />
-                <marker date="1486311020170" expanded="true" signature="26350:26427" placeholder="{...}" />
+                <marker date="1486311293387" expanded="true" signature="4928:5019" placeholder="..." />
+                <marker date="1486311293387" expanded="true" signature="4947:5011" placeholder="{...}" />
+                <marker date="1486311293387" expanded="true" signature="9303:9353" placeholder="SELECT * FRO..product..." />
+                <marker date="1486311293387" expanded="true" signature="10652:10678" placeholder="SELECT * FRO..sub_category..." />
+                <marker date="1486311293387" expanded="true" signature="12189:12256" placeholder="SELECT * FRO..product..." />
+                <marker date="1486311293387" expanded="true" signature="16288:16338" placeholder="SELECT * FRO..product..." />
+                <marker date="1486311293387" expanded="true" signature="18295:18345" placeholder="SELECT * FRO..product..." />
+                <marker date="1486311293387" expanded="false" signature="24380:24432" placeholder="..." />
+                <marker date="1486311293387" expanded="true" signature="24433:24793" placeholder="..." />
+                <marker date="1486311293387" expanded="true" signature="24544:24786" placeholder="..." />
+                <marker date="1486311293387" expanded="true" signature="26335:26438" placeholder="..." />
+                <marker date="1486311293387" expanded="true" signature="26349:26426" placeholder="{...}" />
               </folding>
             </state>
           </provider>
@@ -711,20 +710,20 @@
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2073991">
-          <caret line="296" column="44" selection-start-line="296" selection-start-column="44" selection-end-line="296" selection-end-column="44" />
+          <caret line="296" column="43" selection-start-line="296" selection-start-column="43" selection-end-line="296" selection-end-column="43" />
           <folding>
-            <marker date="1486311020170" expanded="true" signature="4928:5019" placeholder="..." />
-            <marker date="1486311020170" expanded="true" signature="4947:5011" placeholder="{...}" />
-            <marker date="1486311020170" expanded="true" signature="9304:9354" placeholder="SELECT * FRO..product..." />
-            <marker date="1486311020170" expanded="true" signature="10653:10679" placeholder="SELECT * FRO..sub_category..." />
-            <marker date="1486311020170" expanded="true" signature="12190:12257" placeholder="SELECT * FRO..product..." />
-            <marker date="1486311020170" expanded="true" signature="16289:16339" placeholder="SELECT * FRO..product..." />
-            <marker date="1486311020170" expanded="true" signature="18296:18346" placeholder="SELECT * FRO..product..." />
-            <marker date="1486311020170" expanded="false" signature="24381:24433" placeholder="..." />
-            <marker date="1486311020170" expanded="true" signature="24434:24794" placeholder="..." />
-            <marker date="1486311020170" expanded="true" signature="24545:24787" placeholder="..." />
-            <marker date="1486311020170" expanded="true" signature="26336:26439" placeholder="..." />
-            <marker date="1486311020170" expanded="true" signature="26350:26427" placeholder="{...}" />
+            <marker date="1486311293387" expanded="true" signature="4928:5019" placeholder="..." />
+            <marker date="1486311293387" expanded="true" signature="4947:5011" placeholder="{...}" />
+            <marker date="1486311293387" expanded="true" signature="9303:9353" placeholder="SELECT * FRO..product..." />
+            <marker date="1486311293387" expanded="true" signature="10652:10678" placeholder="SELECT * FRO..sub_category..." />
+            <marker date="1486311293387" expanded="true" signature="12189:12256" placeholder="SELECT * FRO..product..." />
+            <marker date="1486311293387" expanded="true" signature="16288:16338" placeholder="SELECT * FRO..product..." />
+            <marker date="1486311293387" expanded="true" signature="18295:18345" placeholder="SELECT * FRO..product..." />
+            <marker date="1486311293387" expanded="false" signature="24380:24432" placeholder="..." />
+            <marker date="1486311293387" expanded="true" signature="24433:24793" placeholder="..." />
+            <marker date="1486311293387" expanded="true" signature="24544:24786" placeholder="..." />
+            <marker date="1486311293387" expanded="true" signature="26335:26438" placeholder="..." />
+            <marker date="1486311293387" expanded="true" signature="26349:26426" placeholder="{...}" />
           </folding>
         </state>
       </provider>
