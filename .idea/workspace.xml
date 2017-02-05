@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29a79e7d-b3f7-4e5b-99e9-3cbe31a14c24" name="Default" comment="" />
+    <list default="true" id="29a79e7d-b3f7-4e5b-99e9-3cbe31a14c24" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+    </list>
     <ignored path="samsad.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -48,27 +51,46 @@
       <file leaf-file-name="SpecialCustomerMainOrder.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sp-admin/app/class/SpecialCustomerMainOrder.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-16.538462">
+            <state vertical-scroll-proportion="0.0">
               <caret line="236" column="0" selection-start-line="236" selection-start-column="0" selection-end-line="236" selection-end-column="0" />
-              <folding>
-                <marker date="1484913822266" expanded="true" signature="4183:4515" placeholder="..." />
-                <marker date="1484913822266" expanded="true" signature="4542:4925" placeholder="..." />
-                <marker date="1484913822266" expanded="true" signature="4548:4924" placeholder="..." />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="category.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="category.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin/category.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.80829597">
+            <state vertical-scroll-proportion="-21.846153">
               <caret line="90" column="29" selection-start-line="90" selection-start-column="29" selection-end-line="90" selection-end-column="29" />
               <folding>
                 <marker date="1478763457055" expanded="true" signature="2422:2444" placeholder="SELECT * FRO..category..." />
                 <marker date="1478763457055" expanded="true" signature="2865:2921" placeholder="SELECT * FRO..sub_category..." />
                 <marker date="1478763457055" expanded="true" signature="4320:4339" placeholder="..." />
                 <marker date="1478763457055" expanded="true" signature="5098:5202" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.2073991">
+              <caret line="296" column="44" selection-start-line="296" selection-start-column="44" selection-end-line="296" selection-end-column="44" />
+              <folding>
+                <marker date="1486311020170" expanded="true" signature="4928:5019" placeholder="..." />
+                <marker date="1486311020170" expanded="true" signature="4947:5011" placeholder="{...}" />
+                <marker date="1486311020170" expanded="true" signature="9304:9354" placeholder="SELECT * FRO..product..." />
+                <marker date="1486311020170" expanded="true" signature="10653:10679" placeholder="SELECT * FRO..sub_category..." />
+                <marker date="1486311020170" expanded="true" signature="12190:12257" placeholder="SELECT * FRO..product..." />
+                <marker date="1486311020170" expanded="true" signature="16289:16339" placeholder="SELECT * FRO..product..." />
+                <marker date="1486311020170" expanded="true" signature="18296:18346" placeholder="SELECT * FRO..product..." />
+                <marker date="1486311020170" expanded="false" signature="24381:24433" placeholder="..." />
+                <marker date="1486311020170" expanded="true" signature="24434:24794" placeholder="..." />
+                <marker date="1486311020170" expanded="true" signature="24545:24787" placeholder="..." />
+                <marker date="1486311020170" expanded="true" signature="26336:26439" placeholder="..." />
+                <marker date="1486311020170" expanded="true" signature="26350:26427" placeholder="{...}" />
               </folding>
             </state>
           </provider>
@@ -82,7 +104,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/database/connection.php" />
         <option value="$PROJECT_DIR$/product-listing.php" />
         <option value="$PROJECT_DIR$/design/header.php" />
         <option value="$PROJECT_DIR$/sa.php" />
@@ -133,6 +154,7 @@
         <option value="$PROJECT_DIR$/sp-admin/createOrder.php" />
         <option value="$PROJECT_DIR$/sp-admin/app/class/SpecialCustomerMainOrder.php" />
         <option value="$PROJECT_DIR$/admin/category.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -148,7 +170,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="2564" />
+    <option name="width" value="2576" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -296,10 +318,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2564" height="1056" extended-state="1" />
+    <frame x="-8" y="-8" width="2576" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22488226" sideWeight="0.49528936" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22382812" sideWeight="0.49528936" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1900289" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -334,18 +356,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sp-admin/app/class/SpecialCustomerMainOrder.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1484913822266" expanded="true" signature="4183:4515" placeholder="..." />
-            <marker date="1484913822266" expanded="true" signature="4542:4925" placeholder="..." />
-            <marker date="1484913822266" expanded="true" signature="4548:4924" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/admin/add-new-product.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-21.576923">
@@ -679,25 +689,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sp-admin/app/class/SpecialCustomerMainOrder.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.538462">
+        <state vertical-scroll-proportion="0.0">
           <caret line="236" column="0" selection-start-line="236" selection-start-column="0" selection-end-line="236" selection-end-column="0" />
-          <folding>
-            <marker date="1484913822266" expanded="true" signature="4183:4515" placeholder="..." />
-            <marker date="1484913822266" expanded="true" signature="4542:4925" placeholder="..." />
-            <marker date="1484913822266" expanded="true" signature="4548:4924" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/category.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.80829597">
+        <state vertical-scroll-proportion="-21.846153">
           <caret line="90" column="29" selection-start-line="90" selection-start-column="29" selection-end-line="90" selection-end-column="29" />
           <folding>
             <marker date="1478763457055" expanded="true" signature="2422:2444" placeholder="SELECT * FRO..category..." />
             <marker date="1478763457055" expanded="true" signature="2865:2921" placeholder="SELECT * FRO..sub_category..." />
             <marker date="1478763457055" expanded="true" signature="4320:4339" placeholder="..." />
             <marker date="1478763457055" expanded="true" signature="5098:5202" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2073991">
+          <caret line="296" column="44" selection-start-line="296" selection-start-column="44" selection-end-line="296" selection-end-column="44" />
+          <folding>
+            <marker date="1486311020170" expanded="true" signature="4928:5019" placeholder="..." />
+            <marker date="1486311020170" expanded="true" signature="4947:5011" placeholder="{...}" />
+            <marker date="1486311020170" expanded="true" signature="9304:9354" placeholder="SELECT * FRO..product..." />
+            <marker date="1486311020170" expanded="true" signature="10653:10679" placeholder="SELECT * FRO..sub_category..." />
+            <marker date="1486311020170" expanded="true" signature="12190:12257" placeholder="SELECT * FRO..product..." />
+            <marker date="1486311020170" expanded="true" signature="16289:16339" placeholder="SELECT * FRO..product..." />
+            <marker date="1486311020170" expanded="true" signature="18296:18346" placeholder="SELECT * FRO..product..." />
+            <marker date="1486311020170" expanded="false" signature="24381:24433" placeholder="..." />
+            <marker date="1486311020170" expanded="true" signature="24434:24794" placeholder="..." />
+            <marker date="1486311020170" expanded="true" signature="24545:24787" placeholder="..." />
+            <marker date="1486311020170" expanded="true" signature="26336:26439" placeholder="..." />
+            <marker date="1486311020170" expanded="true" signature="26350:26427" placeholder="{...}" />
           </folding>
         </state>
       </provider>
